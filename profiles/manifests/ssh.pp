@@ -1,4 +1,4 @@
-class businessunit1::ssh {
+class profiles::ssh {
 
   class { 'enterprise-ssh':
     rootenabled = 'no',
