@@ -6,5 +6,5 @@ mod 'enterprise-ssh',
   :branch => 'production'
 
 mod 'enterprise-dns',
-  :git => 'git@github.com:obscured1975/enterprise-ssh.git',
+  :git => 'git@github.com:obscured1975/enterprise-dns.git',
   :branch => 'production'
